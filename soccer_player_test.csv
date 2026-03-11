@@ -1,0 +1,54 @@
+Name,Age,Club,Nationality,Position,Appearances,Assist,Distance / 90 minutes,Goals,Conceded,Interception,Key Passes,Pass Attempt / 90 minutes,Pass Completed / 90 minutes,Shots on Target,Shots,Tackle Attempt,Tackle Won,Shutouts
+Mauricio Cuero,27,Levante,COL,Midfielder,22,1,4.8,3,0,19,2,22.28,11.14,16,29,18,10,0
+Andriy Yarmolenko,30,FC Barcelona,UKR,Midfielder,28,4,6.1,12,0,44,28,39.8,25.55,21,50,48,28,0
+Federico Valverde,21,Getafe,URU,Midfielder,24,3,4.3,1,0,16,10,32.42,25.29,5,16,77,45,0
+João Mário,27,Chelsea,POR,Midfielder,37,2,8.0,2,0,161,56,51.19,40.7,12,28,195,139,0
+Eden Hazard,29,Chelsea,BEL,Midfielder,43,8,8.1,18,0,75,142,45.21,30.4,54,109,113,57,0
+Adnan Januzaj,25,Man Utd,BEL,Midfielder,25,14,8.0,9,0,36,160,50.13,38.44,26,60,73,43,0
+Wahbi Khazri,29,Swansea,TUN,Midfielder,25,4,8.1,2,0,26,45,42.45,29.92,13,29,28,16,0
+Roberto,20,Sevilla,ESP,Striker,29,1,4.7,13,0,49,4,22.01,16.46,38,81,20,7,0
+Ryan Woods,26,Brentford,ENG,Defender,32,0,7.8,0,0,191,33,48.88,38.06,3,16,157,127,0
+Raúl De Tomás,25,Elche,ESP,Midfielder,30,3,4.4,8,0,21,5,27.03,15.01,36,65,36,13,0
+Abdoulaye Ba,29,Villarreal,SEN,Defender,25,1,4.2,0,0,66,2,20.77,16.36,1,9,106,86,0
+Awer Mabil,24,Espanyol,AUS,Midfielder,25,2,4.3,3,0,13,2,23.88,13.51,14,36,23,8,0
+Joël Matip,28,Liverpool,CMR,Defender,20,1,6.3,1,0,208,6,42.03,28.02,3,9,45,38,0
+Jonay,20,Numancia,ESP,Defender,1,0,5.0,0,0,3,0,23,14,0,1,3,2,0
+Simon Fleming,20,Chelsea,ENG,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vicente Iborra,32,Sevilla,ESP,Defender,28,11,5.7,3,0,113,19,31.18,20.4,10,27,159,101,0
+Javi,20,Espanyol,ESP,Striker,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pedro Bigas,29,Levante,ESP,Defender,17,2,5.1,0,0,45,3,22.82,16.49,2,6,66,52,0
+Jorge,23,FC Barcelona,BRA,Defender,33,7,5.2,1,0,114,19,36.58,25.09,5,27,110,84,0
+Mamadou Sakho,30,Liverpool,FRA,Defender,15,0,6.3,0,0,204,4,44.48,31.41,0,2,71,60,0
+Chaker Alhadhur,28,Levante,COM,Defender,7,1,5.2,0,0,23,4,25.69,19.7,0,0,26,19,0
+Donny van de Beek,22,Crystal Palace,NED,Midfielder,27,1,7.9,0,0,138,30,51.11,42.14,7,15,96,77,0
+Julian Green,24,Stoke,USA,Midfielder,23,4,8.5,0,0,50,28,36.3,24.79,5,12,89,62,0
+Domingo Ortega,20,Tenerife,ESP,Defender,26,2,5.3,0,0,92,14,22.78,17.32,3,10,107,75,0
+Sergio Romero,33,Middlesbrough,ARG,Goalkeeper,2,0,2.8,0,2,0,0,27,8.5,0,0,0,0,1
+Xherdan Shaqiri,28,Arsenal,SUI,Midfielder,1,1,4.0,0,0,1,3,30,17,1,2,0,0,0
+Tendayi Darikwa,28,Aston Villa,ENG,Defender,25,10,8.1,0,0,107,46,47.47,33.78,1,5,102,68,0
+Alfreð Finnbogason,31,Deportivo,ISL,Midfielder,24,0,4.2,7,0,14,2,20.62,14.19,19,43,18,5,0
+Joel Robles,29,Deportivo,ESP,Goalkeeper,21,0,1.6,0,33,0,0,19.69,9.12,0,0,3,2,8
+Wilfrid Kaptoum,23,FC Barcelona,CMR,Midfielder,2,0,0,0,0,0,0,0,0,0,0,2,1,0
+Sergi Gómez,27,Swansea,ESP,Defender,27,1,6.2,0,0,269,2,44.82,35.35,0,7,100,87,0
+Assane Gnoukouri,23,Man City,CIV,Midfielder,32,2,8.4,3,0,123,92,68.24,54.57,16,37,91,71,0
+Juninho Bacuna,22,Leicester,NED,Midfielder,1,1,8.0,0,0,1,2,62,49,0,0,2,2,0
+Pablo Marí,26,Córdoba,ESP,Defender,15,1,4.1,0,0,40,3,19.92,14.85,0,3,70,56,0
+David Timor,30,Rayo,ESP,Midfielder,27,5,4.3,3,0,26,30,42.63,28.19,8,19,75,44,0
+Carles Planas,29,Middlesbrough,ESP,Defender,27,1,7.6,0,0,203,36,46.86,34.96,2,4,191,153,0
+Sebastián Giovini,30,Córdoba,ARG,Goalkeeper,2,0,1.1,0,5,0,0,13,4.5,0,0,0,0,0
+Antonio Segura,21,Xanthi,ESP,Midfielder,22,4,4.5,0,0,29,7,38.45,21.44,1,11,39,21,0
+Borja,26,Middlesbrough,ESP,Defender,1,0,0,0,0,8,0,0,0,0,0,4,3,0
+Antonio Milic,25,Crystal Palace,CRO,Defender,28,1,6.3,0,0,349,16,42.61,31.4,1,6,122,105,0
+Riccardo Saponara,28,Everton,ITA,Midfielder,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Gerard Moreno,27,R. Betis,ESP,Striker,27,2,5.0,11,0,19,6,23.54,16.4,35,72,27,11,0
+Andre Wisdom,26,Brighton,JAM,Defender,19,0,7.0,0,0,170,6,43.43,28.93,3,6,53,48,0
+Kieran Trippier,29,Brentford,ENG,Defender,10,0,7.2,0,0,56,17,43.77,30.58,0,1,38,31,0
+Youri Tielemans,22,Everton,BEL,Midfielder,14,0,8.2,1,0,29,21,62.26,43.19,4,8,37,31,0
+Antoine Griezmann,28,Man Utd,FRA,Midfielder,30,8,8.1,17,0,51,155,43.17,33.22,41,86,72,46,0
+Germán Pezzella,28,Valencia,ARG,Defender,19,1,4.5,0,0,71,1,22.73,17.94,2,9,85,70,0
+Carlos Kameni,36,Málaga,CMR,Goalkeeper,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+David Rochela,30,Albacete,ESP,Defender,24,1,4.2,0,0,116,9,20.99,17.2,2,15,117,94,0
+Jordan Archer,26,Newcastle,SCO,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fábio Coentrão,31,Málaga,POR,Defender,26,5,4.8,0,0,96,6,31.8,22.6,0,2,157,122,0
+Santi Mina,24,Celta,ESP,Midfielder,37,0,4.3,11,0,26,7,24.75,13.28,38,72,39,19,0
+Allan Nyom,31,Watford,CMR,Defender,23,2,7.6,0,0,196,31,52.23,37.36,2,4,111,88,0
