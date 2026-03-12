@@ -1,3 +1,13 @@
+## 👥 Authors
+
+| Name | NRP |
+|---|---|
+| Dustin Felix | 5025231046 |
+| Darryl Matthew Wibawa | 5025231047 |
+| Nicholas | 5025231031 |
+
+---
+
 # ⚽ Soccer Player Performance Prediction
 
 A machine learning project that predicts soccer player performance ratings (**Bad**, **Normal**, **Good**) based on in-game statistics. Built for Big Data coursework using Gradient Boosting with an interactive Gradio web interface.
@@ -225,6 +235,6 @@ Then open the local URL shown in the terminal (e.g., `http://127.0.0.1:7860`).
 
 ---
 
-## Author
+## Course
 
-**Nicholas** — Big Data coursework, Semester 6
+Big Data — Semester 6
