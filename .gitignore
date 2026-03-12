@@ -1,0 +1,44 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# ========================
+# Model & Encoder Files
+# (besar, bisa di-generate ulang dengan train_model.py)
+# ========================
+*.pkl
+
+# ========================
+# Output / Generated Files
+# (bisa di-generate ulang)
+# ========================
+soccer_player_test_with_predictions.csv
+
+# ========================
+# Gradio Cache
+# ========================
+.gradio/
+
+# ========================
+# Jupyter Notebook Checkpoints
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Editor / IDE
+# ========================
+.vscode/
+.idea/
+tempCodeRunnerFile.py
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
