@@ -1,4 +1,4 @@
-## 👥 Authors
+## Big Data — T
 
 | Name | NRP |
 |---|---|
@@ -234,7 +234,3 @@ Then open the local URL shown in the terminal (e.g., `http://127.0.0.1:7860`).
 | `joblib` | Model serialization (`.pkl`) |
 
 ---
-
-## Course
-
-Big Data — Semester 6
