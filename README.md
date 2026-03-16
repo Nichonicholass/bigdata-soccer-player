@@ -5,7 +5,7 @@
 | Dustin Felix | 5025231046 |
 | Darryl Matthew Wibawa | 5025231047 |
 | Nicholas | 5025231031 |
-
+| Athalla Abhinaya | 5025231107 |
 ---
 
 # ⚽ Soccer Player Performance Prediction
